@@ -1,5 +1,4 @@
 - 👋 Hi, I’m habiba 
-- 🌱 I’m currently learning IBM Full-Stack Development on Coursera.
 - 🚀 Always aiming to learn all things programming.
 - 🛠️ I currently know HTML, CSS, JavaScript, C++, C#.
 <!---
