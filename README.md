@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi!+I'm+Habiba+Elsayed;Developer+;UI%2FUX+Designer+;Creative+Mind+" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=Hi!+I'm+Habiba+Elsayed;Developer+;UI%2FUX+Designer+" alt="Typing SVG" />
 </p>
 
 ---
@@ -12,7 +12,6 @@
 <p align="center">
   <div>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=habiba-226&layout=compact&theme=radical" width="48%" height="180px"/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=habiba-226&theme=radical" width="48%" height="180px"/>
   </div>
 </p>
 
