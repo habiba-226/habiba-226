@@ -46,7 +46,7 @@
 
 ---
 
-![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/habiba-226/habiba-226/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 habiba-226/habiba-226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
