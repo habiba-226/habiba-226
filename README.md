@@ -9,16 +9,16 @@
 ---
 
 ## 🛠️ Tech Stack
+
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="40px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40px"/>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,angular,flutter,tensorflow,git,linux,mysql" />
+</p>
+
+<p align="center">
+<b>AI & Data:</b> Scikit-learn • Pandas • NumPy <br/>
+<b>Robotics:</b> ROS2 • Gazebo <br/>
+<b>IoT:</b> ESP32 • MQTT • Blynk <br/>
+<b>Design:</b> Figma • Adobe XD • Canva
 </p>
 
 ---
@@ -45,6 +45,8 @@
 </p>
 
 ---
+
+![snake gif](https://github.com/your-username/your-username/blob/output/github-contribution-grid-snake.svg)
 
 <!---
 habiba-226/habiba-226 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
